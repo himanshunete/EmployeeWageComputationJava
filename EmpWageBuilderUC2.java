@@ -11,5 +11,5 @@ public class EmpWageBuilderUC2{
          empHrs = 0;
 	   empWage = empHrs * EMP_RATE_PER_HOUR;
 	   System.out.println("Emp Daily Wage: " + empWage);
-} 
+   } 
 }

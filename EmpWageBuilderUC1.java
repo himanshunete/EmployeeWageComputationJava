@@ -1,3 +1,4 @@
+
 public class EmpWageBuilderUC1{
    public static void main(String[] args){
       int IS_FULL_TIME = 1;
